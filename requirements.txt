@@ -1,4 +1,4 @@
-pyTelegramBotAPI
-Flask
 requests
-psutil
+pymongo
+pyotp
+beautifulsoup4
